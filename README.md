@@ -7,5 +7,3 @@ Digital Design, Verification, Validation
 4. Verilog hardware description language (HDL) for design and verification.
 5. Contemporary design flow and methodology.
 6. Lab experiments using industry standard EDA tools and field programmable gate array (FPGA) devices.
-
-[AND_OR](Module AND_OR/Images, Tables, and Waveforms.md)
