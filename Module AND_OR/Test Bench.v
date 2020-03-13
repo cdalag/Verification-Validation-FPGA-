@@ -32,5 +32,3 @@ initial
   end
   
 endmodule
-
-https://github.com/cdalag/Verification-Validation-FPGA-/commit/1d449dda6d5fbbfdc4ec6587ce1a7f55a0f45b02#commitcomment-37801643
